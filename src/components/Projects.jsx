@@ -16,48 +16,48 @@ export const Projects = () => {
 
   const projects = [
     {
-      title: "Juara 2 Lomba Fashion Show",
+      title: "Juara Lomba Fashion Show",
       description: "18 Agustus 2022",
       imgUrl: projImg1,
     },
     {
       title: "Perpisahan Evelyn",
-      description: "15 Oktober 2022",
+      description: "23 September 2022",
       imgUrl: projImg2,
     },
     {
       title: "Projek P5",
-      description: "24 Oktober 2022",
+      description: "3 Oktober 2022",
       imgUrl: projImg3,
     },
     {
-      title: "Perayaan Ultah Bu Gita",
-      description: "22 Februari 2023",
+      title: "Latihan Upacara",
+      description: "15 Oktober 2022",
       imgUrl: projImg4,
+    },
+    {
+      title: "Praktek Matematika",
+      description: "24 Oktober 2022",
+      imgUrl: projImg5,
+    },
+    {
+      title: "Peringatan Hari Guru",
+      description: "25 November 2022",
+      imgUrl: projImg6,
+    },
+    {
+      title: "Ultah Bu Gita",
+      description: "22 Februari 2023",
+      imgUrl: projImg7,
+    },
+    {
+      title: "Kedatangan Habib Palestina",
+      description: "30 Maret 2023",
+      imgUrl: projImg8,
     },
     {
       title: "Bukber 10 PPLG 1",
       description: "6 April 2023",
-      imgUrl: projImg5,
-    },
-    {
-      title: "Halal bi Halal",
-      description: "2 Mei 2023",
-      imgUrl: projImg6,
-    },
-    {
-      title: "Pembagian Rapot",
-      description: "26 Juni 2023",
-      imgUrl: projImg7,
-    },
-    {
-      title: "Perpisahan Mahasiswa",
-      description: "15 Agustus 2023",
-      imgUrl: projImg8,
-    },
-    {
-      title: "Upacara 17 Agustus",
-      description: "17 Agustus 2023",
       imgUrl: projImg9,
     },
   ];
