@@ -63,7 +63,7 @@ input:focus, textarea:focus, select:focus {
 .project {
   padding: 50px 0;
   position: relative;
-  background-color: #fff;
+  background: var(--background-color);
 }
 .project h2 {
 	font-size: 45px;
